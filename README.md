@@ -7,4 +7,5 @@ Technologies used for this project Meteor JS, React, JS, Tailwind ,MongoDB.
 
 Image:
 ![screenShot01](image/home.png)
+![screenShot02](image/hom2.png)
 
