@@ -3,9 +3,11 @@ Technical test for the company docmovi for the position Full-Stack Trainee Devel
 
 Technologies used for this project Meteor JS, React, JS, Tailwind ,MongoDB.
 
-## Preview image
+## Preview images
 
-Image:
+Image 1:
 ![screenShot01](image/home.png)
+
+Image 2:
 ![screenShot02](image/hom2.png)
 
